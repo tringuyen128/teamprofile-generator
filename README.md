@@ -67,9 +67,9 @@ To run tests, please run the following in your terminal:
 
 ## Resources 💡
 
-Module 10 document
-https://www.youtube.com/watch?v=FgnxcUQ5vho&t=442s
-https://www.youtube.com/watch?v=y9JQdKgdgnM
+- Module document 
+- https://www.youtube.com/watch?v=FgnxcUQ5vho&t=442s
+- https://www.youtube.com/watch?v=y9JQdKgdgnM
 
 
 ## Future Development
