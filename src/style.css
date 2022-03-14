@@ -10,6 +10,9 @@ body {
   #jumbo {
     margin-top: 20px;
   }
+  header {
+    text-shadow: 2px 2px #2c2a2a;
+  }
   
   .card {
       margin: 15px;
@@ -19,7 +22,6 @@ body {
     
     .row {
       justify-content: center;
-
     }
   
   
