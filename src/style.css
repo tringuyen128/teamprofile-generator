@@ -1,0 +1,25 @@
+
+
+body {
+    margin: 25px;
+    background-color: rgb(240,240,240);
+    font-family: arial, sans-serif;
+    font-size: 14px;
+  }
+  
+  #jumbo {
+    margin-top: 20px;
+  }
+  
+  .card {
+      margin: 15px;
+      padding: 0px;
+      box-shadow: 5px 5px 5px rgb(66, 65, 65);
+    }
+    
+    .row {
+      justify-content: center;
+
+    }
+  
+  

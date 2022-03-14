@@ -43,13 +43,13 @@ inputManager = () => {
       ])
       .then((answers) => {
         const nManager = new Manager(
-          answers.mgrrName,
+          answers.mgrName,
           answers.mgrID,
           answers.mgrEmail,
           answers.offNum
         );
         allEmployees.push(nManager);
-        newTeammember();
+        newTeammemberPrompt();
       });
   };
 
@@ -76,7 +76,7 @@ newTeammemberPrompt = () => {
 };
 
 //question base on roles Engineer and Intern after the anser select yes from above function
-newTeammemberPrompt = () => {
+newTeammember = () => {
   inquirer
     .prompt([
       {

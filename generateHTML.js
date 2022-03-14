@@ -76,10 +76,10 @@ const createHTML = (allEmployees) => {
     </head>
     <body>
       <header>
-        <div class="jumbotron jumbotron-fluid">
+        <div class="jumbotron jumbotron-fluid" id="jumbo">
           <div class="container">
-            <h1 class="display-4 text-center bg-dark" style="color: white">
-              My Team
+            <h1 class="display-4 text-center bg-primary" style="color: white">
+              <strong>My Team</strong>
             </h1>
           </div>
         </div>
